@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: UNLISCENSED
 
-pragma solidity ^0.7.4;
+pragma solidity ^0.8.6;
 
 contract Legendary {
     string public name = "Legendary Token";
